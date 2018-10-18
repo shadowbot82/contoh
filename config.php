@@ -1,4 +1,4 @@
 <?php
 
-$ls = 'xxxxxxxxxxxxxxxxxxxx';
-$aid = 'xxxxxxxxxxxxxxxxxxxx';
+$userId = 'xxxxxxxxxxxxxxxxxxxx';
+
